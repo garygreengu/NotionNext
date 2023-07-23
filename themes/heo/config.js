@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www.chineseai.link/' },
-    { title: '访问文档中心获取更多帮助', url: 'https://www.chineseai.link/' }
+    { title: '特看中国AI带你领略天下AI大事及AI知识', url: 'https://www.chineseai.link/' },
+    { title: '访问学习中心获取更多AI智慧知识及AI工具', url: 'https://www.chineseai.link/' }
   ],
 
   // 英雄区(首页顶部大卡)
