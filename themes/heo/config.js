@@ -22,7 +22,7 @@ const CONFIG = {
   HERO_CATEGORY_1: { title: '全球AI动态', url: '/tag/全球AI动态' },
   HERO_CATEGORY_2: { title: '中国AI变化', url: '/tag/中国AI变化' },
   HERO_CATEGORY_3: { title: 'AI应用', url: '/tag/AI应用' },
-
+  HERO_CATEGORY_4: { title: 'AI生活', url: '/tag/AI生活' },
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
     '你好！我是',
