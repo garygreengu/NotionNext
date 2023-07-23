@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_2: '体察中国AI变化',
   HERO_TITLE_3: 'CHINESEAI.LINK',
   HERO_TITLE_4: '人工智能AI时代',
-  HERO_TITLE_5: '带你领略AI科技、AI革命、AI创新、AI应用、AI应用',
+  HERO_TITLE_5: '带你领略AI科技、AI革命、AI创新、AI教育、AI应用、AI变化、AI生活',
   HERO_TITLE_LINK: 'https://chineseai.link',
 
 
