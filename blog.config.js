@@ -155,17 +155,8 @@ const BLOG = {
 
   //   ********挂件组件相关********
   // Chatbase
-  CHATBASE_ID: process.env.NEXT_PUBLIC_CHATBASE_ID || true, // 是否显示chatbase机器人 https://www.chatbase.co/
- <script>
- window.chatbaseConfig = {
-    chatbotId: "pGADx7lSKiZdYfX-MxJaU",
-  }
- </script>
- <script
-  src="https://www.chatbase.co/embed.min.js"
-  id="pGADx7lSKiZdYfX-MxJaU"
-  defer>
- </script>
+  CHATBASE_ID: process.env.NEXT_PUBLIC_CHATBASE_ID || null, // 是否显示chatbase机器人 https://www.chatbase.co/
+
 
   
   // 悬浮挂件
