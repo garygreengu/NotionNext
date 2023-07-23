@@ -21,7 +21,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '全球AI动态', url: '/tag/全球AI动态' },
   HERO_CATEGORY_2: { title: '中国AI变化', url: '/tag/中国AI变化' },
-  HERO_CATEGORY_3: { title: 'AI应用', url: '/tag/AI应用' },
+  HERO_CATEGORY_3: { title: 'AI应用及知识学习赚钱', url: '/tag/AI应用' },
   
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
