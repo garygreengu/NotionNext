@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '全观全球AI动态，,
-  HERO_TITLE_2: '体察中国AI变化' ,
+  HERO_TITLE_1: '全观全球AI动态' ,
+  HERO_TITLE_2: '体察中国AI变化'  ,
   HERO_TITLE_3: 'https://chineseai.link/',
   HERO_TITLE_4: '人工智能AI时代'
   HERO_TITLE_5: '带你领略AI科技、AI革命、AI行业、AI生活变化',
