@@ -10,12 +10,13 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '全观全球AI动态' ,
-  HERO_TITLE_2: '体察中国AI变化'  ,
-  HERO_TITLE_3: 'https://chineseai.link/',
-  HERO_TITLE_4: '人工智能AI时代'
-  HERO_TITLE_5: '带你领略AI科技、AI革命、AI行业、AI生活变化',
-  HERO_TITLE_LINK: 'https://chineseai.link/',
+  HERO_TITLE_1: '全观全球AI动态',
+  HERO_TITLE_2: '体察中国AI变化',
+  HERO_TITLE_3: 'CHINESEAI.LINK',
+  HERO_TITLE_4: '人工智能AI时代',
+  HERO_TITLE_5: '带你领略全球AI动态、中国AI变化、人们AI生活',
+  HERO_TITLE_LINK: 'https://chineseai.link',
+
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '全球AI动态', url: '/tag/全球AI动态' },
@@ -98,7 +99,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://www.chineseai.link/',
+  SOCIAL_CARD_URL: 'https://www.chineseai.link',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
