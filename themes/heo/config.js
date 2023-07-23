@@ -13,8 +13,8 @@ const CONFIG = {
   HERO_TITLE_1: '全观全球AI动态，体察中国AI变化',
   HERO_TITLE_2: '细品AI场景应用，服务人民AI生活',
   HERO_TITLE_3: 'https://chineseai.link/',
-  HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HERO_TITLE_4: '人工智能AI时代'
+  HERO_TITLE_5: '带你领略AI科技、AI革命、AI行业、AI生活变化',
   HERO_TITLE_LINK: 'https://chineseai.link/',
 
   // 英雄区显示三个置顶分类
