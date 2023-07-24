@@ -360,6 +360,14 @@ const BLOG = {
   ENABLE_CACHE: process.env.ENABLE_CACHE || false, // 开启缓存会将Notion数据缓存在内存中，通常在开发调试中使用，正式部署开启此功能意义不大。
   isProd: process.env.VERCEL_ENV === 'production', // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)  isProd: process.env.VERCEL_ENV === 'production' // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
   VERSION: process.env.NEXT_PUBLIC_VERSION // 版本号
+
+
+  <link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.11/tianli_gpt.css">
+<script>
+let tianliGPT_postSelector = '#post #article-container';
+let tianliGPT_key = '5Q5mpqRK5DkwT1X9Gi5e';
+</script>
+<script src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.11/tianli_gpt.js"></script>
 }
 
 module.exports = BLOG
