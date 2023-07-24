@@ -362,12 +362,5 @@ const BLOG = {
   VERSION: process.env.NEXT_PUBLIC_VERSION // 版本号
 
 
-  <link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.11/tianli_gpt.css">
-<script>
-let tianliGPT_postSelector = '#post #article-container';
-let tianliGPT_key = '5Q5mpqRK5DkwT1X9Gi5e';
-</script>
-<script src="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.11/tianli_gpt.js"></script>
-}
 
 module.exports = BLOG
